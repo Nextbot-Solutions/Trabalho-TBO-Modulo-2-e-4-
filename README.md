@@ -3,7 +3,7 @@
 Projeto da disciplina de Busca e Ordenação (IFNMG – Campus Montes Claros).
 Professor: Tadeu Zubaran
 
-Aluno: Vitor
+Aluno: Diogo Henrique e Pedro Lucas
 
 ## Módulos implementados
 
